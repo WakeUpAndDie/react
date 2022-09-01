@@ -1,0 +1,22 @@
+.header_content {
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+    padding: 0 20px;
+}
+
+.bgded {
+    background-image:url('img/demo/backgrounds/01.png');
+}
+
+.mybg {
+    background-image:url('img/demo/backgrounds/02.png');
+}
+
+.mybgtwo {
+    background-image:url('img/demo/backgrounds/03.png');
+}
+
+.mybgfour {
+    background-image:url('img/demo/backgrounds/04.png');
+}

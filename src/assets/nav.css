@@ -1,0 +1,17 @@
+.menu_list {
+    display: flex;
+    list-style: none;
+}
+
+.menu_list li a {
+    margin: 0 50px;
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+}
+
+.menu_list li a:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(220, 52, 170);
+    text-decoration: underline;
+}
